@@ -40,7 +40,7 @@ export function About() {
         >
           <div className="space-y-6">
             <div>
-              <h2 className="text-4xl md:text-5xl font-black mb-2 gradient-text">
+              <h2 className="text-4xl md:text-5xl font-black mb-2 text-gray-900 dark:text-white">
                 {t('about.title')}
               </h2>
               <div className="w-20 h-1 bg-gradient-to-r from-accent-cyan to-accent-lime rounded-full"></div>

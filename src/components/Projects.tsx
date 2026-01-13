@@ -10,6 +10,7 @@ interface Project {
   technologies: string[];
   imageUrl?: string;
   youtubeUrl?: string;
+  demoUrl?: string;
 }
 
 const getYouTubeThumbnail = (url: string) => {
@@ -22,7 +23,7 @@ const getYouTubeThumbnail = (url: string) => {
 
 export function Projects() {
   const { t } = useTranslation();
-  const { ref, inView } = useInView({ threshold: 0.2, triggerOnce: true });
+  const { ref, inView } = useInView({ threshold: 0.1, triggerOnce: true });
   const [projects, setProjects] = useState<Project[]>([]);
   const [loading, setLoading] = useState(true);
 
