@@ -76,7 +76,7 @@ export function Contact() {
           animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
           className="mb-12 text-center"
         >
-          <h2 className="text-4xl md:text-5xl font-black mb-4 gradient-text">
+          <h2 className="text-4xl md:text-5xl font-black mb-4 text-gray-900 dark:text-white">
             {t('contact.title')}
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-accent-cyan to-accent-lime rounded-full mx-auto"></div>
