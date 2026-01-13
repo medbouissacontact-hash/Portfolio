@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "BOUISSA MOHAMED",
+    "subtitle": "Senior Unity Game Developer",
+    "description": "8+ years crafting immersive gaming experiences",
+    "cta": "Press Start",
+    "scroll": "Scroll to Begin"
+  },
+  "about": {
+    "title": "About Me",
+    "experience": " Years Experience",
+    "description": "Hi! I'm a passionate Senior Unity Game Developer with 8+ years of professional experience. I specialize in creating engaging mobile games, AR/VR experiences, Multiplayer games, and interactive prototypes that captivate players worldwide. I thrive on solving complex technical challenges and delivering polished, production-ready experiences.",
+    "expertise": "My expertise spans across multiple domains: mobile game development, AR/VR integration, Multiplayer games, WebGL experiences, backend systems with Firebase & PlayFab, and rapid MVP development. I'm driven by innovation, attention to detail, and a commitment to excellence.",
+    "focused": "Focused on:",
+    "skill1": "Mobile Games (iOS/Android)",
+    "skill2": "AR/VR Experiences",
+    "skill3": "WebGL & Interactive Web",
+    "skill4": "Prototypes & MVPs",
+    "skill5": "Real-time Analytics",
+    "skill6": "Multiplayer Games"
+  },
+  "skills": {
+    "title": "Skills & Tech Stack",
+    "gameEngine": "Game Engine",
+    "programming": "Programming Languages",
+    "backend": "Backend & Services",
+    "platforms": "Platforms & AR",
+    "tools": "Tools & Analytics",
+    "levelExpert": "Expert",
+    "levelAdvanced": "Advanced",
+    "levelIntermediate": "Intermediate",
+    "unlock": "Unlock to reveal"
+  },
+  "projects": {
+    "title": "Project Portfolio",
+    "description": "Showcase of games, prototypes, and interactive experiences",
+    "viewDemo": "View Demo",
+    "viewCode": "View Code",
+    "technologies": "Technologies",
+    "noProjects": "Loading projects..."
+  },
+  "experience": {
+    "title": "Career Timeline",
+    "description": "Level progression through my professional journey",
+    "level": "Level",
+    "current": "Current"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a project in mind? Let's create something amazing together!",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent! I'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "methods": {
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "footer": {
+    "madeWith": "Made with creative passion",
+    "rights": "All rights reserved"
+  }
+}

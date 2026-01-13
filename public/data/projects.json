@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1",
+    "title": "Cyber Hunter",
+    "description": "Cyber Hunter is an open-world, action-adventure RPG set in the dark future of Night City.",
+    "technologies": ["Unity", "C#", "GamePrototype", "VFX","Level Design"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=KEPI81xElcs",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=KEPI81xElcs",
+    "codeUrl": ""
+  },
+  {
+    "id": "2",
+    "title": "MVC Multiversal Vehicle Controller",
+    "description": "The Multiversal Vehicle Controller is a Unity toolkit made for ambitious game developers to integrate vehicle physics inside their video-games.",
+    "technologies": ["Unity", "Engineering Physics", "C#", "Unity Editor Customization"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=thS5b428Gwk",
+    "imageUrl": "",
+    "demoUrl": "https://mvc.gg/"
+  },
+  {
+    "id": "3",
+    "title": "MALL MANAGER SIMULATOR - PROLOGUE",
+    "description": "Mall Manager Simulator: Prologue. Design, build, and manage your own shopping center, where every decision you make impacts your success!",
+    "technologies": ["Unity", "C#", "Level Design", "UX/UI Design","Steam"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=PaT1vxzJJoY",
+    "imageUrl": "https://i.ibb.co/wFqvPdDd/465669553-859049936435195-6707357201636471933-n.jpg",
+    "demoUrl": "https://store.steampowered.com/app/3342580/MALL_MANAGER_SIMULATOR__PROLOGUE/"
+  },
+  {
+    "id": "4",
+    "title": "MR.PORTAL",
+    "description": "Solve funny puzzles with your portal gun and get rid of all the punks !",
+    "technologies": ["Unity", "2D Physics", "C#", "Level Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/shorts/6JUYeWKHL6c",
+    "imageUrl": "https://www.upwork.com/att/download/portfolio/persons/uid/424313114825441280/profile/projects/files/d25d2ee9-5568-425b-a2de-57d4ec20995d",
+    "demoUrl": "https://www.youtube.com/shorts/6JUYeWKHL6c"
+  },
+  {
+    "id": "5",
+    "title": "Portals Experiment",
+    "description": "Successfully complete experiments on your TEST SUBJECTS by opening and closing portals at the right places using your portal gun. Fun physics based puzzle game that will trick your mind!",
+    "technologies": ["Unity", "3D Physics", "C#", "Level Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=TGEMGF_E-CM",
+    "imageUrl": "https://www.upwork.com/att/download/portfolio/persons/uid/424313114825441280/profile/projects/files/5f4382ff-7cca-485e-a0ca-5a740327655f",
+    "demoUrl": "https://www.youtube.com/watch?v=TGEMGF_E-CM"
+  },
+  {
+    "id": "6",
+    "title": "POWER RESTORED",
+    "description": "Solve puzzles and restore the power in the city.",
+    "technologies": ["Unity", "C#", "3D Animation", "UX/UI Design"],
+    "youtubeUrl": "",
+    "imageUrl": "https://www.upwork.com/att/download/portfolio/persons/uid/424313114825441280/profile/projects/files/793a06f7-2079-4d21-98ff-6b69bf0de647",
+    "demoUrl": "https://apkpure.com/fr/power-restored/com.idealump.PowerRestored"
+  },
+  {
+    "id": "7",
+    "title": "MUST LAST",
+    "description": "Must Last is the first 2D FPS space shooter where your reflexes are  put it to the test.",
+    "technologies": ["Unity", "C#", "2D Animation", "UX/UI Design"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=Y2BoIaQCkxo",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=Y2BoIaQCkxo"
+  },
+  {
+    "id": "8",
+    "title": "Multiplayer Color Battle",
+    "description": "Color Battle is a combat game based on ... COLORS! Match sequences, use powerups and unlock powerful special attacks to hit your opponent even harder.",
+    "technologies": ["Unity", "C#", "Multiplayer", "UX/UI Design"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=u5QvLr8N5F4",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=u5QvLr8N5F4"
+  },
+  {
+    "id": "9",
+    "title": "Gamber Go",
+    "description": "GamberGo is a 3D Endless Runner game that take us along a trip into a north african and arabic atmosphere.",
+    "technologies": ["Unity", "C#", "Level Design", "UX/UI Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=4SG0hg-NWaE",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=4SG0hg-NWaE"
+  },
+  {
+    "id": "10",
+    "title": "Spell Fight",
+    "description": "Spell Fight is a turn-based combat game where you fight against other players casting spells by drawing shapes.",
+    "technologies": ["Unity", "C#", "2D Animation", "UX/UI Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=0WrKOAkekJo",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=0WrKOAkekJo"
+  },
+  {
+    "id": "11",
+    "title": "CASIGAMES",
+    "description": "CASIGAMES is a casino platform where you can play games like Roulette, Blackjack, and Slots.",
+    "technologies": ["Unity", "C#", "2D Animation", "UX/UI Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=3L4oj_qHXYE",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=3L4oj_qHXYE"
+  },
+  {
+    "id": "12",
+    "title": "Trash Inc",
+    "description": "Shovel Infinite amount of trash and recover old items that will make you rich.",
+    "technologies": ["Unity", "C#", "Level Design", "UX/UI Design","VFX"],
+    "youtubeUrl": "https://www.youtube.com/watch?v=G8WHm0x_4HI",
+    "imageUrl": "",
+    "demoUrl": "https://www.youtube.com/watch?v=G8WHm0x_4HI"
+  },
+  {
+    "id": "13",
+    "title": "Attack On Titans VR",
+    "description": "Attack On Titans VR is a 3D action game where you play as a titan and fight against other titans in a virtual reality environment.",
+    "technologies": ["Unity", "C#", "Virtual Reality"],
+    "youtubeUrl": "",
+    "imageUrl": "https://www.upwork.com/att/download/portfolio/persons/uid/424313114825441280/profile/projects/files/1225077079446204416",
+    "demoUrl": "https://www.youtube.com/watch?v=LyZJb6wu5us&t=160s"
+  },
+  {
+    "id": "14",
+    "title": "Comic Book Store",
+    "description": "Run your own Comic Book Store and trade items to make profit and become bigger and bigger.",
+    "technologies": ["Unity", "C#", "3D Animation","Level Design"],
+    "youtubeUrl": "",
+    "imageUrl": "https://image.winudf.com/v2/image1/Y29tLmlkZWFsdW1wLmNvbWljc2hvcF9zY3JlZW5fMF8xNjExMTAwMDk3XzA0Mw/screen-0.webp?fakeurl=1&type=.webp",
+    "demoUrl": "https://apkpure.com/fr/comic-book-store/com.idealump.comicshop"
+  }
+]
