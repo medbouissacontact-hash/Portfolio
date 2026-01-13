@@ -50,7 +50,7 @@ export function Skills() {
             >
               <div className="flex justify-between items-start mb-2">
                 <h3 className="font-bold text-gray-900 dark:text-white">{skill.name}</h3>
-                <span className="text-xs px-2 py-1 rounded bg-accent-cyan/20 text-accent-cyan">
+                <span className="text-xs px-2 py-1 rounded bg-accent-cyan/20 text-black dark:text-accent-cyan">
                   {skill.level}%
                 </span>
               </div>

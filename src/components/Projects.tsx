@@ -95,7 +95,7 @@ export function Projects() {
                   <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">{project.description}</p>
                   <div className="flex flex-wrap gap-2">
                     {project.technologies.map((tech) => (
-                      <span key={tech} className="text-xs px-2 py-1 rounded bg-accent-cyan/20 text-accent-cyan">
+                      <span key={tech} className="text-xs px-2 py-1 rounded bg-accent-cyan/20 text-black dark:text-accent-cyan">
                         {tech}
                       </span>
                     ))}
