@@ -29,7 +29,7 @@ export function Contact() {
     setIsSubmitting(true);
 
     try {
-      const formData = new FormData();
+      const formData = new URLSearchParams();
       formData.append('form-name', 'contact');
       Object.entries(formState).forEach(([key, value]) => {
         formData.append(key, value);
@@ -37,7 +37,8 @@ export function Contact() {
 
       const response = await fetch('/', {
         method: 'POST',
-        body: formData,
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: formData.toString(),
       });
 
       if (response.ok) {
